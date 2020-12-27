@@ -81,7 +81,11 @@ li {
 /* PAGE */
 @media (min-width: 750px) {
   body {
-    margin: 5% 15% 5%;
+    margin: 5% 0 5%;
+  }
+  .page {
+    width: 600px;
+    margin: 0 auto;
   }
   .bottom {
     display: flex;
